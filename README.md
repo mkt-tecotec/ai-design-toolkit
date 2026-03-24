@@ -56,7 +56,7 @@ ai-design-toolkit/
 
 ## Yêu cầu
 
-- macOS (Antigravity hiện chỉ hỗ trợ macOS)
+- macOS, Windows 10/11, hoặc Linux (Antigravity hỗ trợ cả 3 nền tảng)
 - Figma Desktop (bắt buộc -- web app không hỗ trợ localhost)
 - Node.js 18+
 - Tài khoản Figma (Free trở lên)
